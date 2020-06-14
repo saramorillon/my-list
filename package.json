@@ -1,0 +1,9 @@
+{
+  "name": "my-list",
+  "version": "1.0.0",
+  "description": "Handle your birthday list",
+  "main": "index.js",
+  "repository": "git@github.com:saramorillon/my-list.git",
+  "author": "Sara Morillon",
+  "license": "MIT"
+}
